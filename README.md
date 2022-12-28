@@ -1,5 +1,4 @@
-- 👋 Hi there
-- 👀 I’m interested in Music and sound design.
-- 🌱 I’m currently learning javascript, React and Python
-- 💞️ I do UI/UX design 
+- Currently learning Flask and AWS
+- Experience in Web design, Front-end web dev and Sysadmin roles
+
 
